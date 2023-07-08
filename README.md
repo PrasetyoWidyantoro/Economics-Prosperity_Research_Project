@@ -1,11 +1,10 @@
-# The Relationship between Prosperity Levels and Inflation, Investment, and Gender Equality in the World
-Before the COVID-19 Pandemic
+# The Relationship between Prosperity Levels and Inflation, Investment, and Gender Equality in the World Before the COVID-19 Pandemic
 
-Dokumentasi Project : file bernama "Easy Report Linear Regression - Relationship between gdpp and fdi inflation gender inequality.pdf"
-PPT Project : File Bernama "Presentasi Linear Regression - Relationship between gdpp and fdi inflation gender inequality.pptx"
-Notebook Project : File Bernama "Notebook - Relationship of Prosperity Level.ipynb
-Link Youtube : https://youtu.be/IPdzTClb8Kk
-Link Medium : https://medium.com/@prasetyow938/the-relationship-between-prosperity-levels-and-inflation-investment-and-gender-equality-in-the-dadf2b220deb
+* Dokumentasi Project : file bernama "Easy Report Linear Regression - Relationship between gdpp and fdi inflation gender inequality.pdf"
+* PPT Project : File Bernama "Presentasi Linear Regression - Relationship between gdpp and fdi inflation gender inequality.pptx"
+* Notebook Project : File Bernama "Notebook - Relationship of Prosperity Level.ipynb
+* Link Youtube : https://youtu.be/IPdzTClb8Kk
+* Link Medium : https://medium.com/@prasetyow938/the-relationship-between-prosperity-levels-and-inflation-investment-and-gender-equality-in-the-dadf2b220deb
 
 ## Pengantar
 Dalam riset ini akan membahas mengenai hubungan antara tingkat kemakmuran suatu negara yang
